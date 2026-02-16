@@ -3,7 +3,7 @@
 ##  Overview
 This project is a structured HTML5 webpage presenting global renewable energy progress in 2025. It highlights major milestones, regional trends, growth drivers, barriers, and progress toward 2030 targets.
 
-## 📂 Project Files
+## Project Files
 - `index.html`
 - `styles.css`
 - `logo.jpg`
